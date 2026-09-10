@@ -1,2 +1,2 @@
 # algorithms-and-data-structures
-aads
+Task1 - Поиск корней уравнения методом половинного деления и методом хорд
